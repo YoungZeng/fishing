@@ -1,4 +1,4 @@
-在[@hackerzhou十年前的版本](https://note.youdao.com/)上稍作改动。十年前的代码风格，理性看待。
+在[@hackerzhou十年前的版本](https://github.com/hackerzhou/Love)上稍作改动。十年前的代码风格，理性看待。
 
 从知乎动态来看，原作者2014年已经与女主角分手，但源码在github十年不删，恍如隔世
 
